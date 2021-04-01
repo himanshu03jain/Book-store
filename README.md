@@ -1,4 +1,4 @@
-# Book details store using [pyhton-tkinter](https://docs.python.org/3/library/tkinter.html)
+# Book details store using [python-tkinter](https://docs.python.org/3/library/tkinter.html)
 
 It is a simple GUI which stores the book information and perform some operations.
 
